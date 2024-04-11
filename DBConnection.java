@@ -1,6 +1,6 @@
 package com.project.atmproject;
 import java.sql.*;
-
+// What data actually we needed from mysql database that will be actually accessed through an separate methods
 public class DBConnection {
     Connection con = null;
     PreparedStatement preparedStatement;
