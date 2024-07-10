@@ -4,7 +4,7 @@ Welcome to the ATM project repository! This is a simple and efficient Automated 
 
 ## Prerequisites
 1. Before running this project, ensure you have set up a MySQL database with a table named user_details, containing columns for customer_id, customer_name, account_type, pin_number, and remaining_balance.
-2. Whether you can use your own database name and table name. If you choose to do so, ensure to update the database and table names in the queries written in each class. Alternatively, you can use the default names we have used: "atm_application" as the database name and "user_details" as the table name.## Technology Used
+2. Whether you can use your own database name and table name. If you choose to do so, ensure to update the database and table names in the queries written in each class. Alternatively, you can use the default names we have used: "atm_application" as the database name and "user_details" as the table name.
 
 ## Technology Used
 + Language: Java
